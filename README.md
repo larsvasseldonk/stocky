@@ -1,0 +1,2 @@
+# stocky
+Automatic Stock Trader
